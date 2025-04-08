@@ -44,7 +44,8 @@ Suitable as an example:
 
 ## 🔐 Screenshots and demo
 
-_(Add 2-3 screenshots of the app or a short gif here!)_
+![Home Bakery Preview]![HomeBakeryPreview_Cropped](https://github.com/user-attachments/assets/0f4bc70a-aa59-459d-a598-bfa92bb19b2e)
+() 
 
 ---
 
@@ -59,4 +60,5 @@ _(Add 2-3 screenshots of the app or a short gif here!)_
 
 ## 🧑‍💻 Author
 
-Translated with DeepL.com (free version)
+Bohdan Borysenko
+[LinkedIn →]([https://linkedin.com/in/твоя-ссылка](https://www.linkedin.com/in/bohdan-borysenko-11a104246/))  
