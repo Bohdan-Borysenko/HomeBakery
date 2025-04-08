@@ -61,4 +61,4 @@ Suitable as an example:
 ## 🧑‍💻 Author
 
 Bohdan Borysenko
-[LinkedIn →]([https://linkedin.com/in/твоя-ссылка](https://www.linkedin.com/in/bohdan-borysenko-11a104246/))  
+[LinkedIn →](https://www.linkedin.com/in/bohdan-borysenko-11a104246/)  
